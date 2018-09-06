@@ -1,4 +1,4 @@
-namespace TodoApi.Models
+namespace Movies.Models
 {
     public class TodoItem
     {

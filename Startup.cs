@@ -2,9 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using TodoApi.Models;
+using Movies.Models;
 
-namespace TodoApi
+namespace Movies
 {
     public class Startup
     {
